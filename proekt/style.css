@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+}
+
+
+.container{
+    margin: 0px 286px;
+}
+
+.header{
+    background-color: #f8f8ff;
+    height: 100vh;
+    background-size: cover;
+}
+
+.header-line{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.montserrat{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: 14px;
+    font-weight: 700;
+    text-decoration: none;
+    color: #373962;
+
+    margin-right: 25px;
+  }
+
+.nav {
+    background-color: #FFFFFF;
+    padding: 12px 30px;
+}
